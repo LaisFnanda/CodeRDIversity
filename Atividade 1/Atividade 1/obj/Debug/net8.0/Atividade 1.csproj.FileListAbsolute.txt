@@ -1,0 +1,14 @@
+C:\Prosper\Atividade 1\Atividade 1\Atividade 1\bin\Debug\net8.0\Atividade 1.exe
+C:\Prosper\Atividade 1\Atividade 1\Atividade 1\bin\Debug\net8.0\Atividade 1.deps.json
+C:\Prosper\Atividade 1\Atividade 1\Atividade 1\bin\Debug\net8.0\Atividade 1.runtimeconfig.json
+C:\Prosper\Atividade 1\Atividade 1\Atividade 1\bin\Debug\net8.0\Atividade 1.dll
+C:\Prosper\Atividade 1\Atividade 1\Atividade 1\bin\Debug\net8.0\Atividade 1.pdb
+C:\Prosper\Atividade 1\Atividade 1\Atividade 1\obj\Debug\net8.0\Atividade 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prosper\Atividade 1\Atividade 1\Atividade 1\obj\Debug\net8.0\Atividade 1.AssemblyInfoInputs.cache
+C:\Prosper\Atividade 1\Atividade 1\Atividade 1\obj\Debug\net8.0\Atividade 1.AssemblyInfo.cs
+C:\Prosper\Atividade 1\Atividade 1\Atividade 1\obj\Debug\net8.0\Atividade 1.csproj.CoreCompileInputs.cache
+C:\Prosper\Atividade 1\Atividade 1\Atividade 1\obj\Debug\net8.0\Atividade 1.dll
+C:\Prosper\Atividade 1\Atividade 1\Atividade 1\obj\Debug\net8.0\refint\Atividade 1.dll
+C:\Prosper\Atividade 1\Atividade 1\Atividade 1\obj\Debug\net8.0\Atividade 1.pdb
+C:\Prosper\Atividade 1\Atividade 1\Atividade 1\obj\Debug\net8.0\Atividade 1.genruntimeconfig.cache
+C:\Prosper\Atividade 1\Atividade 1\Atividade 1\obj\Debug\net8.0\ref\Atividade 1.dll

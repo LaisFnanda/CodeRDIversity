@@ -1,0 +1,15 @@
+C:\Prosper\Atividade 1\Atividade 1\Jadded Array\bin\Debug\net8.0\Jadded Array.exe
+C:\Prosper\Atividade 1\Atividade 1\Jadded Array\bin\Debug\net8.0\Jadded Array.deps.json
+C:\Prosper\Atividade 1\Atividade 1\Jadded Array\bin\Debug\net8.0\Jadded Array.runtimeconfig.json
+C:\Prosper\Atividade 1\Atividade 1\Jadded Array\bin\Debug\net8.0\Jadded Array.dll
+C:\Prosper\Atividade 1\Atividade 1\Jadded Array\bin\Debug\net8.0\Jadded Array.pdb
+C:\Prosper\Atividade 1\Atividade 1\Jadded Array\obj\Debug\net8.0\Jadded Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prosper\Atividade 1\Atividade 1\Jadded Array\obj\Debug\net8.0\Jadded Array.AssemblyInfoInputs.cache
+C:\Prosper\Atividade 1\Atividade 1\Jadded Array\obj\Debug\net8.0\Jadded Array.AssemblyInfo.cs
+C:\Prosper\Atividade 1\Atividade 1\Jadded Array\obj\Debug\net8.0\Jadded Array.csproj.CoreCompileInputs.cache
+C:\Prosper\Atividade 1\Atividade 1\Jadded Array\obj\Debug\net8.0\Jadded Array.sourcelink.json
+C:\Prosper\Atividade 1\Atividade 1\Jadded Array\obj\Debug\net8.0\Jadded Array.dll
+C:\Prosper\Atividade 1\Atividade 1\Jadded Array\obj\Debug\net8.0\refint\Jadded Array.dll
+C:\Prosper\Atividade 1\Atividade 1\Jadded Array\obj\Debug\net8.0\Jadded Array.pdb
+C:\Prosper\Atividade 1\Atividade 1\Jadded Array\obj\Debug\net8.0\Jadded Array.genruntimeconfig.cache
+C:\Prosper\Atividade 1\Atividade 1\Jadded Array\obj\Debug\net8.0\ref\Jadded Array.dll
